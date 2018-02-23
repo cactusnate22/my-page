@@ -1,0 +1,18 @@
+body {
+  background-color: aqua;
+  font-family: 'Playfair Display SC', serif;
+}
+
+nav {
+  font-family: 'Jura', sans-serif;
+}
+
+.header {
+  background-color: #DAF7A6;
+}
+
+h1,h3 {
+  font-family: 'Krona One', sans-serif;
+  margin: auto;
+  text-align: center;
+}
